@@ -1,4 +1,2 @@
-taobao.com
-mmstat.com
-aliyuncs.com
-alipayobjects.com
+*.taobao.com
+*.alipayobjects.com
